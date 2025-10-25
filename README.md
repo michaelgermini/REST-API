@@ -191,4 +191,12 @@ Pour toute question ou problème :
 
 Ce livre vous donne toutes les clés pour devenir un expert des APIs REST. Que vous construisiez une simple API pour un projet personnel ou une plateforme complexe pour une entreprise, vous avez maintenant les connaissances et les outils nécessaires.
 
+## 📄 Licence
+
+Ce livre est distribué sous licence **MIT**. Vous êtes libre de l'utiliser, le modifier et le distribuer selon les termes de la licence.
+
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+---
+
 **Happy coding!** 🚀
