@@ -1,4 +1,4 @@
-# 📚 Livre REST API
+# 📚 REST API
 
 Un guide complet et pratique pour concevoir, développer et déployer des APIs REST modernes et sécurisées.
 
